@@ -1,4 +1,4 @@
-# 토픽모델링을 통한 Nature-Based Solutions(NbS) 연구 동향 분석
+# 토픽모델링을 통한 Nature-based Solutions(NbS) 연구 동향 분석
 
 <br/>
 <br/>
